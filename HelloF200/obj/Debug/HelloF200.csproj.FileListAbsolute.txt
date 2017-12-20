@@ -1,0 +1,17 @@
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\HelloF200.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\App.g.cs
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\HelloF200_Content.g.cs
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\HelloF200_MarkupCompile.cache
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\HelloF200_MarkupCompile.lref
+C:\Users\Alexander\Documents\HelloF200\HelloF200\bin\Debug\HelloF200.exe.config
+C:\Users\Alexander\Documents\HelloF200\HelloF200\bin\Debug\HelloF200.exe
+C:\Users\Alexander\Documents\HelloF200\HelloF200\bin\Debug\HelloF200.pdb
+C:\Users\Alexander\Documents\HelloF200\HelloF200\bin\Debug\libpxcclr.cs.dll
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\MainWindow.baml
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\HelloF200.g.resources
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\HelloF200.Properties.Resources.resources
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\HelloF200.csproj.GenerateResource.Cache
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\HelloF200.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\HelloF200.exe
+C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\Debug\HelloF200.pdb
