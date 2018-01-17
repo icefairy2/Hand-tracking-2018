@@ -16,3 +16,20 @@ C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\x64\Debug\HelloF200.exe
 C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\x64\Debug\HelloF200.pdb
 C:\Users\Alexander\Documents\HelloF200\HelloF200\bin\x64\Debug\libpxccpp2c.dll
 C:\Users\Alexander\Documents\HelloF200\HelloF200\obj\x64\Debug\HelloF200.csprojResolveAssemblyReference.cache
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\bin\x64\Debug\libpxccpp2c.dll
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\bin\x64\Debug\HelloF200.exe.config
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\bin\x64\Debug\HelloF200.exe
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\bin\x64\Debug\HelloF200.pdb
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\bin\x64\Debug\libpxcclr.cs.dll
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\HelloF200.csprojResolveAssemblyReference.cache
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\MainWindow.g.cs
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\App.g.cs
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\HelloF200_Content.g.cs
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\HelloF200_MarkupCompile.cache
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\HelloF200_MarkupCompile.lref
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\MainWindow.baml
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\HelloF200.g.resources
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\HelloF200.Properties.Resources.resources
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\HelloF200.csproj.GenerateResource.Cache
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\HelloF200.exe
+D:\Desktop\Computer Science year 3 sem I\3DScan\project\hand-tracking\HelloF200\obj\x64\Debug\HelloF200.pdb

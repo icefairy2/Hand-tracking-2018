@@ -1,0 +1,8 @@
+D:\Documents\C__Users_klutch_source_repos_ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Documents\C__Users_klutch_source_repos_ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Documents\C__Users_klutch_source_repos_ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Documents\C__Users_klutch_source_repos_ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Documents\C__Users_klutch_source_repos_ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Documents\C__Users_klutch_source_repos_ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\libpxcclr.cs.dll
+D:\Documents\C__Users_klutch_source_repos_ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\libsampledx.dll
+D:\Documents\C__Users_klutch_source_repos_ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\HandReconstruction.csprojResolveAssemblyReference.cache
