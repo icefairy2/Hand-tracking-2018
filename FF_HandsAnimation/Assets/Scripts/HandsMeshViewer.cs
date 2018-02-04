@@ -17,7 +17,6 @@ public class HandsMeshViewer : MonoBehaviour
     public float rotateSpeedFactor = 200f;
     public float cameraSpeed = 60f;
     public bool applyRotation = true;
-    public Vector3 nirwanha = Vector3.one * 1000f; //position where the hands are hidden from the camera
 
     private Joint[,] myJoints; //Array of joints
     //The tracking positions are offset for all joints so that the hand is in front of the camera
